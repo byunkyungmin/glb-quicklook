@@ -5,6 +5,8 @@ Select a `.glb` file in Finder and press Space to preview 3D models.
 
 [한국어](README.ko.md)
 
+![demo](demo.gif)
+
 ![macOS](https://img.shields.io/badge/macOS-15.0%2B-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 

@@ -4,6 +4,8 @@ macOS Quick Look 확장으로, Finder에서 `.glb` (glTF Binary) 파일을 선�
 
 [English](README.md)
 
+![demo](demo.gif)
+
 ![macOS](https://img.shields.io/badge/macOS-15.0%2B-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
