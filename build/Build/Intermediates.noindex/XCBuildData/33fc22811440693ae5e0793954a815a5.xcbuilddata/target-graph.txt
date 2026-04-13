@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-Target 'GLBQuickLook' in project 'GLBQuickLook'
-➜ Explicit dependency on target 'PreviewExtension' in project 'GLBQuickLook'
-Target 'PreviewExtension' in project 'GLBQuickLook' (no dependencies)
