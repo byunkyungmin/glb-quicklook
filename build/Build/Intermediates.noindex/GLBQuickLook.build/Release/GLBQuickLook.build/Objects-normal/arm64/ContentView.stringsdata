@@ -1,0 +1,48 @@
+{
+  "source": "/Users/byunkyungmin/repos/glb-quicklook/GLBQuickLook/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "GLB Quick Look",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finder에서 .glb 파일을 선택하고\n스페이스바를 눌러 3D 미리보기를 할 수 있습니다.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "이 앱을 /Applications로 이동하세요",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "앱 실행은 불필요 — 시스템이 자동 등록합니다",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finder에서 .glb 파일 선택 후 스페이스바",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary.swiftconstvalues",
+    "dependencies" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary.d",
+    "diagnostics" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary.dia",
+    "emit-module-dependencies" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary-emit-module.dia",
+    "pch" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewExtension-primary.swiftdeps"
+  },
+  "/Users/byunkyungmin/repos/glb-quicklook/PreviewExtension/GLBParser.swift" : {
+    "index-unit-output-path" : "/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/GLBParser.o",
+    "llvm-bc" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/GLBParser.bc",
+    "object" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/GLBParser.o"
+  },
+  "/Users/byunkyungmin/repos/glb-quicklook/PreviewExtension/PreviewViewController.swift" : {
+    "index-unit-output-path" : "/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewViewController.o",
+    "llvm-bc" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewViewController.bc",
+    "object" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/GLBQuickLook.build/Release/PreviewExtension.build/Objects-normal/arm64/PreviewViewController.o"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c10ddfc81fb0b37fbb9d96a4d935ab630afcc661489077f22efb3628aa1e25dc"
+    }
+  ],
+  "containerPath" : "/Users/byunkyungmin/repos/glb-quicklook/GLBQuickLook.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Products",
+      "derivedDataPath" : "/Users/byunkyungmin/repos/glb-quicklook/build",
+      "indexDataStoreFolderPath" : "/Users/byunkyungmin/repos/glb-quicklook/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/byunkyungmin/repos/glb-quicklook/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/byunkyungmin/repos/glb-quicklook/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

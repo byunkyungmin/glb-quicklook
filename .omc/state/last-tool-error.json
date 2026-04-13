@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git init && git remote add origin https://github.com/byunkyungmin/glb-quicklook.git && git remote -v\",\"description\":\"Initialize git and add remote\"}",
+  "error": "Exit code 3\nReinitialized existing Git repository in /Users/byunkyungmin/repos/glb-quicklook/.git/\nerror: remote origin already exists.",
+  "timestamp": "2026-04-13T11:47:49.272Z",
+  "retry_count": 1
+}

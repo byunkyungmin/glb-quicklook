@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/byunkyungmin/repos/glb-quicklook/build/Build/Products/Release/GLBQuickLook.app/Contents/MacOS/GLBQuickLook'
+relocations:     []
+...
